@@ -1,6 +1,6 @@
 import PIL.Image as Image
 import numpy as np
-from utils import color_transfer_MKL as ct
+import color_transfer_MKL as ct
 
 main_dir = 'imgs/'
 source = main_dir + 'source.jpg'
